@@ -1,0 +1,8 @@
+Covariates,,Titles,,Abstracts,,,
+,,Open source,Health,Open collaboration,Open innovation,Open source,Health
+Titles,Open.source,1,0,0.378,-0.160,1,0.405
+,Health,0,1,0.218,0.277,0,-0.078
+Abstracts,Open collaboration,0.378,0.218,1,0.303,0.377964473,-0.153
+,Open innovation,-0.160,0.277,0.303,1,-0.160128154,-0.367
+,Open source,1,0,0.378,-0.160,1,0.405
+,Health,0.405,-0.078,-0.153,-0.367,0.405,1

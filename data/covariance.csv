@@ -1,0 +1,7 @@
+Covariates,,Titles,,,,Abstracts,,,
+,,Open Collaboration,Open Innovation,Open collaborative Innovation,Health,Open Collaboration,Open Innovation,Open collaborative Innovation,Health
+Titles,Health,0,0,0,0.25,-0.083,0.008,0,-0.108
+,Open Collaboration,0,0,0,-0.083,0.117,0.042,0,-0.008
+Abstracts,Open Innovation,0,0,0,0.008,0.042,0.163,0,-0.113
+,Open collaborative Innovation,0,0,0,0,0,0,0,0
+,Health,0,0,0,-0.108,-0.008,-0.113,0,0.263
