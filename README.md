@@ -1,1 +1,1 @@
-# open collaboratory innovation
+# open collaborative innovation
