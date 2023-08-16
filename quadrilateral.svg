@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="quadrilateral.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.59419893"
+     inkscape:cx="261.69687"
+     inkscape:cy="541.90605"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,-5.2759529 L 445.41833,-5.2759529 L 445.41833,14.708717 L 0,14.708717 z"
+         id="path667" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="M 0,14.708717 L 445.41833,14.708717 L 445.41833,34.693387 L 0,34.693387 z"
+         id="path670" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1-2">
+      <path
+         d="M 0,-5.2759529 L 445.41833,-5.2759529 L 445.41833,14.708717 L 0,14.708717 z"
+         id="path727" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2-7">
+      <path
+         d="M 0,14.708717 L 445.41833,14.708717 L 445.41833,34.693387 L 0,34.693387 z"
+         id="path730" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-15"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-13"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-37"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-7"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-31"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:0.182456;fill-rule:evenodd;stroke:#080808;stroke-width:0.528716"
+       id="rect234"
+       width="149.13519"
+       height="144.23714"
+       x="31.185772"
+       y="27.623552"
+       ry="1.836217" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 105.53073,28.052474 V 172.76761"
+       id="path461" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.169415,99.742127 H 180.33733"
+       id="path463" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arrows;-inkscape-font-specification:Arrows;stroke-width:0.264583"
+       x="31.253305"
+       y="180.61484"
+       id="text519"><tspan
+         sodipodi:role="line"
+         id="tspan517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="31.253305"
+         y="180.61484">Open Source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arrows;-inkscape-font-specification:Arrows;stroke-width:0.264583"
+       x="145.08124"
+       y="180.25639"
+       id="text519-8"><tspan
+         sodipodi:role="line"
+         id="tspan517-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="145.08124"
+         y="180.25639">Open Innovation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arrows;-inkscape-font-specification:Arrows;stroke-width:0.264583"
+       x="140.39595"
+       y="22.576527"
+       id="text519-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan517-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="140.39595"
+         y="22.576527">Open collaboration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Arrows;-inkscape-font-specification:Arrows;stroke-width:0.264583"
+       x="32.548149"
+       y="22.891228"
+       id="text519-8-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan517-7-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="32.548149"
+         y="22.891228">Open collaborative innovation</tspan></text>
+    <g
+       clip-path="url(#clipEmfPath2)"
+       id="g696"
+       transform="matrix(0.26458333,0,0,0.26458333,-8.0800274,152.05932)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-8.0800276"
+       y="165.17259"
+       id="text702"><tspan
+         sodipodi:role="line"
+         x="-8.0800276"
+         y="165.17259"
+         id="tspan700"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;font-family:'Times New Roman';fill:#000000;stroke-width:0.264583"
+           id="tspan698"> </tspan></tspan></text>
+    <g
+       clip-path="url(#clipEmfPath1-2)"
+       id="g746"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.087524,148.49711)" />
+    <g
+       clip-path="url(#clipEmfPath2-7)"
+       id="g756"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.087524,148.49711)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:13.25px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(7.194481,31.815595)"
+         x="0"
+         y="0"
+         id="text754"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan752" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-12.087523"
+       y="161.61038"
+       id="text762"><tspan
+         sodipodi:role="line"
+         x="-12.087523"
+         y="161.61038"
+         id="tspan760"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;font-family:'Times New Roman';fill:#000000;stroke-width:0.264583"
+           id="tspan758"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.840538"
+       y="128.06575"
+       id="text798"><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="128.06575"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan830">Medical devices;  Gaps among </tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="134.23936"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan971"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+           dx="0.23625095 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           id="tspan973">healthcare stakeholders, </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="140.41298"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan838">Cyber communities; Social </tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="146.58659"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan842">networks; Medical imaging; </tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="152.76019"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan846">Disruptive technologies; Medical </tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="158.93381"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan935"><tspan
+   id="tspan983"
+   style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583">emigration;  </tspan>Global private sector &amp; </tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="165.10742"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan985">federal government agencies</tspan><tspan
+         sodipodi:role="line"
+         x="69.840538"
+         y="171.28104"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan965" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="194.87595"
+       y="186.07416"
+       id="text952"><tspan
+         sodipodi:role="line"
+         x="194.87595"
+         y="186.07416"
+         id="tspan950"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;font-family:'Times New Roman';fill:#000000;stroke-width:0.264583"
+           id="tspan948"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.50573px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="161.40105"
+       y="189.1911"
+       id="text914"><tspan
+         sodipodi:role="line"
+         x="161.40105"
+         y="189.1911"
+         id="tspan912"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="233.94705"
+       y="189.1911"
+       id="text920"><tspan
+         sodipodi:role="line"
+         x="233.94705"
+         y="189.1911"
+         id="tspan918"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.23333px;font-family:'Times New Roman';fill:#000000;stroke-width:0.264583"
+           id="tspan916"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.50573px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="189.57756"
+       y="157.13113"
+       id="text819"><tspan
+         sodipodi:role="line"
+         x="189.57756"
+         y="157.13113"
+         id="tspan817"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:125%;font-family:arrow;-inkscape-font-specification:arrow;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.54919"
+       y="145.07648"
+       id="text1060"><tspan
+         sodipodi:role="line"
+         x="150.54919"
+         y="145.07648"
+         id="tspan1058"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:arrow;-inkscape-font-specification:arrow;text-align:center;text-anchor:middle;stroke-width:0.264583">Healthcare service design </tspan><tspan
+         sodipodi:role="line"
+         x="151.29333"
+         y="150.36813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:arrow;-inkscape-font-specification:arrow;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1071">tools; M<tspan
+   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4268097"
+   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:arrow;-inkscape-font-specification:arrow;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+   id="tspan1073">edical diagnostics </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.0242px;line-height:1.25;font-family:Arrows;-inkscape-font-specification:Arrows;stroke-width:0.308359"
+       x="85.831848"
+       y="178.35359"
+       id="text1144"
+       transform="scale(1.1654546,0.85803428)"><tspan
+         sodipodi:role="line"
+         id="tspan1142"
+         style="font-size:23.0243px;stroke-width:0.308359"
+         x="85.831848"
+         y="178.35359">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32.5234px;line-height:1.25;font-family:Arrows;-inkscape-font-specification:Arrows;stroke-width:0.435581"
+       x="-81.450012"
+       y="263.29437"
+       id="text1144-9"
+       transform="matrix(0.02521571,-1.6455259,0.60714082,0.0370429,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1142-5"
+         style="font-size:32.5237px;stroke-width:0.435581"
+         x="-81.450012"
+         y="263.29437">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.09982"
+       y="75.99971"
+       id="text1302"><tspan
+         sodipodi:role="line"
+         x="150.09982"
+         y="75.99971"
+         id="tspan1300"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.264583"><tspan
+           dx="0 0 0 0 0 0 0 0 0.11456088 0 0 0 0 0 0"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+           id="tspan1292">End user needs ; Impact of </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="150.09982"
+         y="82.173325"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan1342">digital mutations; </tspan><tspan
+         sodipodi:role="line"
+         x="150.09982"
+         y="88.346931"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan1338">system’s complexity; </tspan><tspan
+         sodipodi:role="line"
+         x="150.71718"
+         y="94.520546"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:4.93889px;font-family:'Times New Roman';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan1346">performance improvement </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.50573px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="130.47441"
+       y="100.5809"
+       id="text1326"><tspan
+         sodipodi:role="line"
+         x="130.47441"
+         y="100.5809"
+         id="tspan1324"
+         style="stroke-width:0.264583" /></text>
+  </g>
+</svg>
